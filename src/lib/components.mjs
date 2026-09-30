@@ -21,10 +21,10 @@ export function pic(ctx, key, o = {}) {
   return `<button type="button" class="zoom ${o.zoomCls || ''}" data-lb="${base}-${m.w}.webp" data-lb-w="${m.w}" data-lb-h="${m.h}"${group ? ` data-lb-group="${group}"` : ''} aria-label="${ctx.t('common.enlarge')}: ${alt}">${img}<span class="zoom__hint" aria-hidden="true">${icon('expand', { size: 18 })}</span></button>`;
 }
 
-export function video(ctx, key, { alt = '', cls = '' } = {}) { // cls 'video--bare' = sin marco extra
+export function video(ctx, key, { alt = '', cls = '', clip = '' } = {}) { // cls 'video--bare' = sin marco extra
   const m = ctx.media[key];
   if (!m) throw new Error('Video no encontrado: ' + key);
-  return `<figure class="video ${cls}" style="--ar:${m.w}/${m.h}">`
+  return `<figure class="video ${cls}" style="--ar:${m.w}/${m.h}${clip ? `;--clip:${clip}` : ''}">`
     + `<video muted loop playsinline preload="none" poster="${ctx.asset('media/' + m.poster)}" width="${m.w}" height="${m.h}" data-autoplay aria-label="${alt}">`
     + `<source src="${ctx.asset('media/' + m.src)}" type="video/mp4"></video>`
     + `<button type="button" class="video__toggle" data-label-play="${ctx.t('common.play')}" data-label-pause="${ctx.t('common.pause')}" aria-label="${ctx.t('common.play')}">`

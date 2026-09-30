@@ -908,3 +908,6 @@ html[lang="es"] .nf [data-l="en"], html[lang="en"] .nf [data-l="es"] { display: 
 .video--match { aspect-ratio: 16 / 10 !important; background: #0f0f10; }
 .video--match video { object-fit: contain; }
 .comp-img { max-width: 760px; margin-inline: auto; }
+
+/* Nestart: recorta el fondo blanco de las grabaciones con la silueta del celular */
+.video--clip video { clip-path: var(--clip); }

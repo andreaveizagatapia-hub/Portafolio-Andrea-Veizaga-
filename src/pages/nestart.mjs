@@ -3,6 +3,14 @@ import { site } from '../config.mjs';
 
 export const meta = { key: 'nestart', section: 'projects', og: 'og-nestart', bodyClass: 'p-nestart' };
 
+// Recorte con la silueta del celular: quita el fondo blanco que viene dentro de cada grabación.
+const PHONE_CLIP = [
+  'inset(1.6% 2.9% 1.5% 2.1% round 16.5% / 8.1%)',
+  'inset(1.1% 2.9% 1.5% 2.1% round 16.5% / 8.1%)',
+  'inset(1.2% 2.1% 1.1% 1.9% round 16.7% / 8.1%)',
+  'inset(0.5% 2.3% 1.4% 4.6% round 16.2% / 8.2%)',
+];
+
 export default function nestart(ctx) {
   const t = ctx.t; const p = (k) => t('nestart.' + k);
   const P = 'img_nestart/';
@@ -93,7 +101,7 @@ ${caseIntro(ctx, 'nestart', { cover: P + 'portada_nestart' })}
     ${sectionHead(p('presentTitle'), '', { id: 'n-present' })}
     <div style="margin-top:48px">${p('features').map((f, i) => `<div class="feature" data-reveal>
       <div class="feature__text"><h3 class="h4">${f.t}</h3><p>${f.p}</p></div>
-      ${video(ctx, P + 'grabacion' + (i + 1) + '_nestart', { alt: f.t, cls: 'video--phone video--bare' })}</div>`).join('')}</div>
+      ${video(ctx, P + 'grabacion' + (i + 1) + '_nestart', { alt: f.t, cls: 'video--phone video--bare video--clip', clip: PHONE_CLIP[i] })}</div>`).join('')}</div>
   </div>
 </section>
 
