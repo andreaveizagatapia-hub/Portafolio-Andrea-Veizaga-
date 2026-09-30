@@ -32,8 +32,8 @@ export default function home(ctx) {
     <!-- Tarjeta con dos caras: foto 1 (frente) y foto 2 (reverso) -->
     <div class="hero4__card" data-hero-card>
       <div class="hero4__flip">
-        <figure class="hero4__face hero4__face--front">${pic(ctx, 'img_home/fotohero1', { alt: t('home.photoA'), eager: true, sizes: '(min-width: 900px) 360px, 70vw', pos: 'center 20%' })}</figure>
-        <figure class="hero4__face hero4__face--back">${pic(ctx, 'img_home/fotohero2', { alt: t('home.photoB'), eager: true, sizes: '(min-width: 900px) 360px, 70vw' })}</figure>
+        <figure class="hero4__face hero4__face--front">${pic(ctx, 'img_home/fotohero1', { alt: t('home.photoA'), eager: true, sizes: '(min-width: 900px) 800px, 100vw', pos: 'center 20%' })}</figure>
+        <figure class="hero4__face hero4__face--back">${pic(ctx, 'img_home/fotohero2', { alt: t('home.photoB'), eager: true, sizes: '(min-width: 900px) 800px, 100vw' })}</figure>
       </div>
     </div>
   </div>

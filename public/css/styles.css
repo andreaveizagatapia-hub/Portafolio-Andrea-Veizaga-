@@ -323,7 +323,7 @@ html.theme-anim, html.theme-anim *, html.theme-anim *::before, html.theme-anim *
 .hero__scroll:hover .dot { transform: translateY(4px); background: var(--lima); color: var(--tinta); border-color: var(--lima); }
 
 /* Tarjeta */
-.hero4__card { position: absolute; left: 0; top: 0; width: var(--cw); height: calc(var(--cw) * 1.36); z-index: 3; perspective: 1600px; transform-origin: 50% 50%; will-change: transform; }
+.hero4__card { position: absolute; left: 0; top: 0; width: var(--cw); height: calc(var(--cw) * 1.36); z-index: 3; perspective: 1600px; transform-origin: 50% 50%; }
 .js .hero4__card { opacity: 0; animation: cardIn 1.1s var(--ease-out) .1s forwards; }
 @keyframes cardIn { from { opacity: 0; clip-path: inset(100% 0 0 0 round 18px); } to { opacity: 1; clip-path: inset(0 0 0 0 round 18px); } }
 .hero4__flip { position: relative; width: 100%; height: 100%; transform-style: preserve-3d; transform: rotateY(calc(var(--f) * -180deg)); }

@@ -85,7 +85,9 @@ for (const [folder, file] of jobs) {
       const out = `${base}-${w}.${fmt}`;
       if (existsSync(out)) continue;
       let p = sharp(input, { limitInputPixels: false }).resize({ width: w, withoutEnlargement: true });
-      p = fmt === 'avif' ? p.avif({ quality: 52, effort: 4 }) : p.webp({ quality: 78, effort: 5 });
+      // Fotos del hero: se ven grandes y en primer plano, van con más calidad.
+      const hq = /fotohero/.test(key);
+      p = fmt === 'avif' ? p.avif({ quality: hq ? 72 : 52, effort: 4 }) : p.webp({ quality: hq ? 90 : 78, effort: 5 });
       await p.toFile(out);
     }
   }
