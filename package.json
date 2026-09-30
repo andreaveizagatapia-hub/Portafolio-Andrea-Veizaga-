@@ -1,0 +1,36 @@
+{
+  "name": "andrea-maria-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio UX/UI de Andrea Maria",
+  "scripts": {
+    "build": "node build.mjs",
+    "media": "node tools/optimize-media.mjs",
+    "og": "python3 tools/make-og.py",
+    "serve": "python3 -m http.server 8080 -d dist"
+  },
+  "devDependencies": {
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/instrument-serif": "^5.3.0",
+    "@fontsource/karla": "^5.3.0",
+    "@iconify-json/arcticons": "^1.2.58",
+    "@iconify-json/bxl": "^1.2.4",
+    "@iconify-json/devicon": "^1.2.68",
+    "@iconify-json/devicon-plain": "^1.2.61",
+    "@iconify-json/gala": "^1.2.3",
+    "@iconify-json/gis": "^1.2.5",
+    "@iconify-json/logos": "^1.2.15",
+    "@iconify-json/material-icon-theme": "^1.2.70",
+    "@iconify-json/material-symbols-light": "^1.2.94",
+    "@iconify-json/mdi": "^1.2.3",
+    "@iconify-json/ri": "^1.2.10",
+    "@iconify-json/selfhst": "^1.2.21",
+    "@iconify-json/skill-icons": "^1.2.4"
+  },
+  "private": true,
+  "type": "module",
+  "optionalDependencies": {
+    "axe-core": "^4.13.0",
+    "potrace": "^2.1.8",
+    "sharp": "^0.35.5"
+  }
+}

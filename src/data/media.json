@@ -1,0 +1,1182 @@
+{
+ "img_home/fotocard_nestart": {
+  "type": "img",
+  "w": 1725,
+  "h": 1294,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1725
+  ],
+  "alpha": false
+ },
+ "img_home/fotocard_peya": {
+  "type": "img",
+  "w": 2400,
+  "h": 4057,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_home/fotocard_prime": {
+  "type": "img",
+  "w": 1887,
+  "h": 2937,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1887
+  ],
+  "alpha": true
+ },
+ "img_home/fotocard_rico": {
+  "type": "img",
+  "w": 2400,
+  "h": 4057,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_home/fotohero1": {
+  "type": "img",
+  "w": 1414,
+  "h": 2121,
+  "widths": [
+   480,
+   800,
+   1200,
+   1414
+  ],
+  "alpha": false
+ },
+ "img_home/fotohero2": {
+  "type": "img",
+  "w": 1414,
+  "h": 2121,
+  "widths": [
+   480,
+   800,
+   1200,
+   1414
+  ],
+  "alpha": false
+ },
+ "img_nestart/grabacion1_nestart": {
+  "type": "video",
+  "w": 382,
+  "h": 782,
+  "src": "img_nestart/grabacion1_nestart.mp4",
+  "poster": "img_nestart/grabacion1_nestart-poster.webp",
+  "kb": 564
+ },
+ "img_nestart/grabacion2_nestart": {
+  "type": "video",
+  "w": 382,
+  "h": 778,
+  "src": "img_nestart/grabacion2_nestart.mp4",
+  "poster": "img_nestart/grabacion2_nestart-poster.webp",
+  "kb": 312
+ },
+ "img_nestart/grabacion3_nestart": {
+  "type": "video",
+  "w": 378,
+  "h": 776,
+  "src": "img_nestart/grabacion3_nestart.mp4",
+  "poster": "img_nestart/grabacion3_nestart-poster.webp",
+  "kb": 162
+ },
+ "img_nestart/grabacion4_nestart": {
+  "type": "video",
+  "w": 390,
+  "h": 772,
+  "src": "img_nestart/grabacion4_nestart.mp4",
+  "poster": "img_nestart/grabacion4_nestart-poster.webp",
+  "kb": 284
+ },
+ "img_nestart/arquitectura_nestart": {
+  "type": "img",
+  "w": 3600,
+  "h": 1135,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_nestart/boceto1": {
+  "type": "img",
+  "w": 367,
+  "h": 548,
+  "widths": [
+   367
+  ],
+  "alpha": false
+ },
+ "img_nestart/boceto2": {
+  "type": "img",
+  "w": 366,
+  "h": 557,
+  "widths": [
+   366
+  ],
+  "alpha": false
+ },
+ "img_nestart/boceto3": {
+  "type": "img",
+  "w": 376,
+  "h": 551,
+  "widths": [
+   376
+  ],
+  "alpha": false
+ },
+ "img_nestart/boceto4": {
+  "type": "img",
+  "w": 350,
+  "h": 555,
+  "widths": [
+   350
+  ],
+  "alpha": false
+ },
+ "img_nestart/boceto5": {
+  "type": "img",
+  "w": 370,
+  "h": 573,
+  "widths": [
+   370
+  ],
+  "alpha": false
+ },
+ "img_nestart/boceto6": {
+  "type": "img",
+  "w": 371,
+  "h": 559,
+  "widths": [
+   371
+  ],
+  "alpha": false
+ },
+ "img_nestart/boceto7": {
+  "type": "img",
+  "w": 352,
+  "h": 548,
+  "widths": [
+   352
+  ],
+  "alpha": false
+ },
+ "img_nestart/datos_mariana": {
+  "type": "img",
+  "w": 807,
+  "h": 954,
+  "widths": [
+   480,
+   800,
+   807
+  ],
+  "alpha": true
+ },
+ "img_nestart/frustraciones": {
+  "type": "img",
+  "w": 249,
+  "h": 300,
+  "widths": [
+   249
+  ],
+  "alpha": true
+ },
+ "img_nestart/mariana": {
+  "type": "img",
+  "w": 1600,
+  "h": 2000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "alpha": true
+ },
+ "img_nestart/motivaciones": {
+  "type": "img",
+  "w": 255,
+  "h": 294,
+  "widths": [
+   255
+  ],
+  "alpha": true
+ },
+ "img_nestart/necesidades": {
+  "type": "img",
+  "w": 252,
+  "h": 291,
+  "widths": [
+   252
+  ],
+  "alpha": true
+ },
+ "img_nestart/pajarito1": {
+  "type": "img",
+  "w": 1024,
+  "h": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "alpha": true
+ },
+ "img_nestart/pajarito2": {
+  "type": "img",
+  "w": 765,
+  "h": 789,
+  "widths": [
+   480,
+   765
+  ],
+  "alpha": true
+ },
+ "img_nestart/portada_nestart": {
+  "type": "img",
+  "w": 1725,
+  "h": 1294,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1725
+  ],
+  "alpha": false
+ },
+ "img_nestart/wire_nestart": {
+  "type": "img",
+  "w": 3600,
+  "h": 2025,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": false
+ },
+ "img_pedidos/afinidad_valentina": {
+  "type": "img",
+  "w": 1911,
+  "h": 912,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1911
+  ],
+  "alpha": false
+ },
+ "img_pedidos/fotosonrisas1": {
+  "type": "img",
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   480,
+   800,
+   1080
+  ],
+  "alpha": false
+ },
+ "img_pedidos/fotosonrisas2": {
+  "type": "img",
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   480,
+   800,
+   1080
+  ],
+  "alpha": false
+ },
+ "img_pedidos/fotosonrisas3": {
+  "type": "img",
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   480,
+   800,
+   1080
+  ],
+  "alpha": false
+ },
+ "img_pedidos/hallazgo1": {
+  "type": "img",
+  "w": 2400,
+  "h": 3600,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_pedidos/hallazgo2": {
+  "type": "img",
+  "w": 2400,
+  "h": 3542,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_pedidos/hallazgo3": {
+  "type": "img",
+  "w": 2400,
+  "h": 3600,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_pedidos/hallazgo4": {
+  "type": "img",
+  "w": 2400,
+  "h": 3600,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_pedidos/isologo_pedidosya": {
+  "type": "img",
+  "w": 480,
+  "h": 459,
+  "widths": [
+   480
+  ],
+  "alpha": true
+ },
+ "img_pedidos/journey_valentina": {
+  "type": "img",
+  "w": 3600,
+  "h": 2142,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_pedidos/logo_aldeas": {
+  "type": "img",
+  "w": 1600,
+  "h": 1600,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "alpha": true
+ },
+ "img_pedidos/logopedidos": {
+  "type": "svg",
+  "src": "img_pedidos/logopedidos.svg"
+ },
+ "img_pedidos/mapaempatia_valentina": {
+  "type": "img",
+  "w": 3600,
+  "h": 2256,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_pedidos/portadapeya": {
+  "type": "img",
+  "w": 2400,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_pedidos/user_valentina": {
+  "type": "img",
+  "w": 3600,
+  "h": 2715,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": false
+ },
+ "img_pedidos/video_peya1": {
+  "type": "video",
+  "w": 1600,
+  "h": 666,
+  "src": "img_pedidos/video_peya1.mp4",
+  "poster": "img_pedidos/video_peya1-poster.webp",
+  "kb": 212
+ },
+ "img_pedidos/video_peya2": {
+  "type": "video",
+  "w": 1600,
+  "h": 652,
+  "src": "img_pedidos/video_peya2.mp4",
+  "poster": "img_pedidos/video_peya2-poster.webp",
+  "kb": 182
+ },
+ "img_pedidos/wire1": {
+  "type": "img",
+  "w": 900,
+  "h": 1812,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire2": {
+  "type": "img",
+  "w": 900,
+  "h": 1815,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire3": {
+  "type": "img",
+  "w": 900,
+  "h": 1847,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire4": {
+  "type": "img",
+  "w": 900,
+  "h": 1848,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire5": {
+  "type": "img",
+  "w": 900,
+  "h": 1847,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire6": {
+  "type": "img",
+  "w": 900,
+  "h": 1847,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire7": {
+  "type": "img",
+  "w": 900,
+  "h": 1849,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire8": {
+  "type": "img",
+  "w": 900,
+  "h": 1809,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_pedidos/wire9": {
+  "type": "img",
+  "w": 900,
+  "h": 1848,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": false
+ },
+ "img_prime/arquitectura_prime": {
+  "type": "img",
+  "w": 3600,
+  "h": 1815,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_prime/foto_mauricio": {
+  "type": "img",
+  "w": 2400,
+  "h": 3596,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_prime/fotoredes1": {
+  "type": "img",
+  "w": 2230,
+  "h": 756,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2230
+  ],
+  "alpha": true
+ },
+ "img_prime/fotoredes2": {
+  "type": "img",
+  "w": 1406,
+  "h": 305,
+  "widths": [
+   480,
+   800,
+   1200,
+   1406
+  ],
+  "alpha": true
+ },
+ "img_prime/fotoredes3": {
+  "type": "img",
+  "w": 2200,
+  "h": 863,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "alpha": true
+ },
+ "img_prime/fotoredes4": {
+  "type": "img",
+  "w": 1744,
+  "h": 434,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1744
+  ],
+  "alpha": true
+ },
+ "img_prime/gif1": {
+  "type": "video",
+  "w": 800,
+  "h": 546,
+  "src": "img_prime/gif1.mp4",
+  "poster": "img_prime/gif1-poster.webp",
+  "kb": 1456
+ },
+ "img_prime/gif3": {
+  "type": "video",
+  "w": 800,
+  "h": 544,
+  "src": "img_prime/gif3.mp4",
+  "poster": "img_prime/gif3-poster.webp",
+  "kb": 205
+ },
+ "img_prime/gif4": {
+  "type": "img",
+  "w": 1800,
+  "h": 1230,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "alpha": true
+ },
+ "img_prime/gif4_antes": {
+  "type": "video",
+  "w": 800,
+  "h": 426,
+  "src": "img_prime/gif4_antes.mp4",
+  "poster": "img_prime/gif4_antes-poster.webp",
+  "kb": 815
+ },
+ "img_prime/gif5": {
+  "type": "video",
+  "w": 800,
+  "h": 548,
+  "src": "img_prime/gif5.mp4",
+  "poster": "img_prime/gif5-poster.webp",
+  "kb": 853
+ },
+ "img_prime/gif_imagen2": {
+  "type": "img",
+  "w": 1116,
+  "h": 757,
+  "widths": [
+   480,
+   800,
+   1116
+  ],
+  "alpha": true
+ },
+ "img_prime/gif_poscompra": {
+  "type": "video",
+  "w": 800,
+  "h": 546,
+  "src": "img_prime/gif_poscompra.mp4",
+  "poster": "img_prime/gif_poscompra-poster.webp",
+  "kb": 84
+ },
+ "img_prime/inicio_sesion": {
+  "type": "img",
+  "w": 1112,
+  "h": 762,
+  "widths": [
+   480,
+   800,
+   1112
+  ],
+  "alpha": false
+ },
+ "img_prime/journey_prime": {
+  "type": "img",
+  "w": 3600,
+  "h": 3125,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_prime/matriz_prime": {
+  "type": "img",
+  "w": 2970,
+  "h": 2892,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   2970
+  ],
+  "alpha": true
+ },
+ "img_prime/portada_prime": {
+  "type": "img",
+  "w": 1887,
+  "h": 2937,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1887
+  ],
+  "alpha": true
+ },
+ "img_prime/resumen_compra": {
+  "type": "img",
+  "w": 1117,
+  "h": 761,
+  "widths": [
+   480,
+   800,
+   1117
+  ],
+  "alpha": false
+ },
+ "img_prime/sistema_diseno": {
+  "type": "img",
+  "w": 3600,
+  "h": 3165,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_prime/user_prime": {
+  "type": "img",
+  "w": 1800,
+  "h": 10155,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "alpha": true
+ },
+ "img_prime/wire_prime1": {
+  "type": "img",
+  "w": 2400,
+  "h": 1885,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_prime/wire_prime2": {
+  "type": "img",
+  "w": 2400,
+  "h": 3715,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_prime/wire_prime3": {
+  "type": "img",
+  "w": 2400,
+  "h": 4504,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": true
+ },
+ "img_prime/wire_prime4": {
+  "type": "img",
+  "w": 2400,
+  "h": 5078,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_rico/apasionada": {
+  "type": "img",
+  "w": 690,
+  "h": 828,
+  "widths": [
+   480,
+   690
+  ],
+  "alpha": true
+ },
+ "img_rico/buscador": {
+  "type": "img",
+  "w": 2400,
+  "h": 1646,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": true
+ },
+ "img_rico/cercana": {
+  "type": "img",
+  "w": 687,
+  "h": 828,
+  "widths": [
+   480,
+   687
+  ],
+  "alpha": true
+ },
+ "img_rico/content1": {
+  "type": "img",
+  "w": 903,
+  "h": 1953,
+  "widths": [
+   480,
+   800,
+   903
+  ],
+  "alpha": false
+ },
+ "img_rico/content2": {
+  "type": "img",
+  "w": 903,
+  "h": 1953,
+  "widths": [
+   480,
+   800,
+   903
+  ],
+  "alpha": false
+ },
+ "img_rico/content3": {
+  "type": "img",
+  "w": 903,
+  "h": 1953,
+  "widths": [
+   480,
+   800,
+   903
+  ],
+  "alpha": false
+ },
+ "img_rico/directa": {
+  "type": "img",
+  "w": 690,
+  "h": 828,
+  "widths": [
+   480,
+   690
+  ],
+  "alpha": true
+ },
+ "img_rico/error1": {
+  "type": "img",
+  "w": 780,
+  "h": 1601,
+  "widths": [
+   480,
+   780
+  ],
+  "alpha": true
+ },
+ "img_rico/error2": {
+  "type": "img",
+  "w": 780,
+  "h": 1601,
+  "widths": [
+   480,
+   780
+  ],
+  "alpha": true
+ },
+ "img_rico/faqs": {
+  "type": "img",
+  "w": 900,
+  "h": 1878,
+  "widths": [
+   480,
+   800,
+   900
+  ],
+  "alpha": true
+ },
+ "img_rico/foto_competencia": {
+  "type": "img",
+  "w": 1884,
+  "h": 1320,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1884
+  ],
+  "alpha": true
+ },
+ "img_rico/mapa_tonos": {
+  "type": "img",
+  "w": 3600,
+  "h": 1614,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400,
+   3600
+  ],
+  "alpha": true
+ },
+ "img_rico/onboarding1": {
+  "type": "img",
+  "w": 810,
+  "h": 1599,
+  "widths": [
+   480,
+   800,
+   810
+  ],
+  "alpha": false
+ },
+ "img_rico/onboarding2": {
+  "type": "img",
+  "w": 810,
+  "h": 1599,
+  "widths": [
+   480,
+   800,
+   810
+  ],
+  "alpha": false
+ },
+ "img_rico/onboarding3": {
+  "type": "img",
+  "w": 810,
+  "h": 1599,
+  "widths": [
+   480,
+   800,
+   810
+  ],
+  "alpha": false
+ },
+ "img_rico/onboarding4": {
+  "type": "img",
+  "w": 810,
+  "h": 1599,
+  "widths": [
+   480,
+   800,
+   810
+  ],
+  "alpha": false
+ },
+ "img_rico/onboarding5": {
+  "type": "img",
+  "w": 810,
+  "h": 1599,
+  "widths": [
+   480,
+   800,
+   810
+  ],
+  "alpha": false
+ },
+ "img_rico/onboarding6": {
+  "type": "img",
+  "w": 810,
+  "h": 1599,
+  "widths": [
+   480,
+   800,
+   810
+  ],
+  "alpha": false
+ },
+ "img_rico/portada_rico": {
+  "type": "img",
+  "w": 2400,
+  "h": 1233,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "alpha": false
+ },
+ "img_rico/proceso1": {
+  "type": "img",
+  "w": 750,
+  "h": 1539,
+  "widths": [
+   480,
+   750
+  ],
+  "alpha": true
+ },
+ "img_rico/proceso2": {
+  "type": "img",
+  "w": 750,
+  "h": 1539,
+  "widths": [
+   480,
+   750
+  ],
+  "alpha": true
+ },
+ "img_rico/proceso3": {
+  "type": "img",
+  "w": 750,
+  "h": 1539,
+  "widths": [
+   480,
+   750
+  ],
+  "alpha": true
+ },
+ "img_rico/proceso4": {
+  "type": "img",
+  "w": 750,
+  "h": 1539,
+  "widths": [
+   480,
+   750
+  ],
+  "alpha": true
+ },
+ "img_rico/proceso5": {
+  "type": "img",
+  "w": 750,
+  "h": 1539,
+  "widths": [
+   480,
+   750
+  ],
+  "alpha": true
+ },
+ "img_rico/selecta": {
+  "type": "img",
+  "w": 690,
+  "h": 828,
+  "widths": [
+   480,
+   690
+  ],
+  "alpha": true
+ },
+ "img_rico/user1_rico": {
+  "type": "img",
+  "w": 1896,
+  "h": 2044,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1896
+  ],
+  "alpha": true
+ },
+ "img_rico/user2_rico": {
+  "type": "img",
+  "w": 1896,
+  "h": 2044,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1896
+  ],
+  "alpha": true
+ },
+ "sobre_mi/foto_sobremi": {
+  "type": "img",
+  "w": 1414,
+  "h": 2121,
+  "widths": [
+   480,
+   800,
+   1200,
+   1414
+  ],
+  "alpha": false
+ },
+ "logo": {
+  "type": "img",
+  "w": 254,
+  "h": 247,
+  "widths": [
+   254
+  ],
+  "alpha": true
+ }
+}
