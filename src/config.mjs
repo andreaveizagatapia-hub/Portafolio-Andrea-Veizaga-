@@ -5,7 +5,7 @@
 // ─────────────────────────────────────────────────────────────
 export const site = {
   // Dominio final (sin barra al final). Se usa para canonical, Open Graph y sitemap.
-  url: 'https://andreaveizaga.vercel.app',
+  url: 'https://andreamariaportfolio.vercel.app',
   name: 'Andrea Veizaga',
   email: 'andreaveizaga.tapia@gmail.com',
 
