@@ -12,7 +12,7 @@ export const site = {
   links: {
     linkedin: 'https://www.linkedin.com/in/andreaveizagatapia/',
     whatsapp: 'https://wa.me/59176989090',
-    cv: 'cv/CV_Andrea_Veizaga_UXUI_designer.pdf', // archivo en /public/cv/
+    cv: 'cv/Andrea_Veizaga_UXUI_designer_CV.pdf', // archivo en /public/cv/
   },
 
   // Enlaces externos de cada caso de estudio
